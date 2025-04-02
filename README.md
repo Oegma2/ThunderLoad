@@ -30,10 +30,3 @@ ThunderLoad is a high-performance load testing tool built with Elixir, designed 
 
 License 📜
 This project is licensed under the terms of the Apache License 2.0. See the [LICENSE](./LICENSE) file for details.
-
-## Contact 💬
-
-For questions, support, or collaboration, join our **ThunderLoad Discord Server**:  
-[Join the Discord](https://discord.gg/Shqw8xG4)
-
-Feel free to ask questions, report issues, or chat with other users and contributors!
